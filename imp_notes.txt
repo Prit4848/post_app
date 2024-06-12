@@ -1,0 +1,5 @@
+first register your account
+/login = user to login account
+/logout = use to logout your account
+/profile = first login and go to your profile
+/profile/upload = use to upload your profile imange
